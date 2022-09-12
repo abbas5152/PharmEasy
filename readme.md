@@ -1,6 +1,6 @@
 # Inspired from PharmEasy.com
 
-This is Collabrated project and accociated with Masai Shcool.
+This is Collabrated project and associated with Masai School.
 Our main objective is to complete all main functionality of pharmeasy.com, such as User Authentication,order medicine page,rtpcr test page, filter and Sorting of the products, Cart page, Checkout page and payment in a given time constraints.
 
 - [Click here](https://pharmeasy-clone1.vercel.app/) to see preview of our project.
